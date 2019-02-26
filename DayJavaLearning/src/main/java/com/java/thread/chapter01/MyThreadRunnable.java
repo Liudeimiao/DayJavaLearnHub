@@ -3,7 +3,7 @@ package com.java.thread.chapter01;
 /**
  * @Author: Ldm
  * @Date: 2019/2/26 16:21
- * 创建线程-常用的两种方式
+ * 创建线程-常用的两种方式。
  */
 public class MyThreadRunnable implements Runnable {
 

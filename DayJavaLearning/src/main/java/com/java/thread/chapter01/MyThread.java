@@ -4,7 +4,7 @@ package com.java.thread.chapter01;
  * @Author: Ldm
  * @Date: 2019/2/26 15:54
  *
- * 创建线程-常用的两种方式
+ * 创建线程-常用的两种方式。
  *
  * Thread 和 Runnable 的相同点：都是“多线程的实现方式”。
  * Thread 和 Runnable 的不同点：
