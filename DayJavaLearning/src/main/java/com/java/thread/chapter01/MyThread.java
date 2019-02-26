@@ -4,6 +4,8 @@ package com.java.thread.chapter01;
  * @Author: Ldm
  * @Date: 2019/2/26 15:54
  *
+ * 创建线程-常用的两种方式
+ *
  * Thread 和 Runnable 的相同点：都是“多线程的实现方式”。
  * Thread 和 Runnable 的不同点：
  *
@@ -14,6 +16,7 @@ package com.java.thread.chapter01;
  * 它们会共享Runnable对象上的资源。
  *
  * 通常，建议通过“Runnable”实现多线程！
+ *
  */
 public class MyThread extends Thread{
 
