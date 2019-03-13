@@ -1,4 +1,4 @@
-package com.java.thread.chapter01.com.java.thread.chapter02;
+package com.java.thread.chapter02;
 
 /**
  * @Author: Ldm
